@@ -1,4 +1,4 @@
-Repository Init Content
+Sample JBPM and Drools Project
 =======================
 
-Your project description here.
+This is sample maven based project using RHPAM and RHDM.
